@@ -19,10 +19,8 @@ The primary goals of this task were as follows:
 To achieve these goals, I utilized the following steps:
 1. Opened the provided PSD file in Photoshop.
 2. Ensured that the text layers within the PSD file were properly labeled, including layers named "1st" and "2nd."
-3. Wrote a JavaScript script to automate the process.
-4. The script iterated through a loop, updating text layers with sequential numbers and saving corresponding PNG files.
-5. The script accounted for the requirement of numbers progressing by two, ensuring that the output was in the format "01(1st text layer), 02(2nd text layer)," "03(1st text layer), 04(2nd text layer)," and so on.
-6. The resulting PNG images were saved with leading zeros (e.g., "01," "02") for consistency.
+3. Wrote a JavaScript script to automate the process.The script iterated through a loop, updating text layers with sequential numbers and saving corresponding PNG files. The script accounted for the requirement of numbers progressing by two, ensuring that the output was in the format "01(1st text layer), 02(2nd text layer)," "03(1st text layer), 04(2nd text layer)," and so on. The resulting PNG images were saved with leading zeros (e.g., "01," "02") for consistency.
+4. To run the script in Adobe Photoshop I went  to File > Scripts > Browse... to open the Scripts dialog, and ran the automateSave.js script.
 
 ## Code
 
