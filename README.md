@@ -2,6 +2,8 @@
 
 This repository shows a Photoshop automation task that I completed. The task involved automating the process of saving a series of images with sequential numbers and specific text layers, using Adobe Photoshop.
 
+<img src="screenshot_output.png" alt="Screenshot" width="800">
+
 ## Overview
 
 In this project, I used with a Photoshop document (PSD file) that served as an Table Number template for an event, which I also designed. The objective was to save a total of 70 PNG images, each with a unique number (sequential 01-70) and specific text layers.
