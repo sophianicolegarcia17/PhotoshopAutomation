@@ -26,9 +26,12 @@ To achieve these goals, I utilized the following steps:
 
 The code used for this automation task is available in this repository. The JavaScript script that was created to accomplish this task.
 
-## Images
+## Project Files
 
-In addition to the code, this repository includes images that demonstrate the process and final output of the project.
+- `automateSave.js`: The JavaScript script used for automation.
+- `table_number_design.png`: The design of the table number.
+- `table_number.psd`: The Photoshop file used in the task.
+- `screenshot_output.png`: A screenshot showing the output with 35 generated images.
 
 ## Conclusion
 
